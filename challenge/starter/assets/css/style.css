@@ -82,7 +82,7 @@ p {
 /*incorperated h2 in to one section and deleted the other section with the same information in the section*/
 .p h2 {
     display: block;
-    text-align: auto;
+    text-align: right, left, right;
     margin-bottom: 20px;
     font-size: 36px;
     
