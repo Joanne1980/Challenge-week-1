@@ -81,8 +81,8 @@ p {
 }
 /*incorperated h2 in to one section and deleted the other section with the same information in the section*/
 .p h2 {
-    display: inline-block;
-    text-align: right, left, right;
+    display: block;
+    text-align: auto;
     margin-bottom: 20px;
     font-size: 36px;
     
@@ -113,14 +113,15 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-.footer {
+/* removed class as just a footer*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 
