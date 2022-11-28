@@ -1,4 +1,47 @@
-# 01 HTML CSS Git: Code Refactor
+# Challenge week 1
+
+## Description
+
+For this weeks challenge we had to update Horiseon's web page from div coding to a semantic coding. 
+This is to make the coding easier to read and it is also better for SEO and for screen readers to pick up the coding and read what the page is about. 
+
+## Installation
+
+I first read over and took in the div coding that was already in place and had a think about the best way to change the coding to semantic html. 
+I changed the coding in the html file and then attempted to tie the css in to work along side the html.
+I was having some issues and eventually booked in for a tutor session for some assistance.
+Together we went through the coding and came up with the solution. 
+
+## Credits 
+
+Jacob Nordon Tutor
+
+## Licence
+
+MIT Licence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--- # 01 HTML CSS Git: Code Refactor
 
 ## Your Task
 
@@ -115,7 +158,7 @@ You are required to submit the following for review:
 
 * The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project. --->
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
